@@ -2,7 +2,7 @@
   "name": "com.worldreaver.systemruntimecompilerservicesunsafe",
   "displayName": "SystemRuntimeCompilerServicesUnsafe",
   "description": "Provides the System.Runtime.CompilerServices.Unsafe class, which provides generic, low-level functionality for manipulating pointers.",
-  "version": "4.5.2",
+  "version": "4.6.0",
   "unity": "2018.3",
   "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
   "license": "MIT",
